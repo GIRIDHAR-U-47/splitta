@@ -146,7 +146,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 font-sans hover:text-gray-700 transition-colors duration-200">
-                  Settle payments instantly via UPI, PayPal, or Venmo with just one tap.
+                  Settle payments instantly via UPI with just one tap.
                 </p>
               </CardContent>
             </Card>
