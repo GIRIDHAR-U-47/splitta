@@ -37,8 +37,7 @@ export default function PrivacyPolicy() {
             </p>
 
             <p className="text-gray-700 font-sans leading-relaxed mb-6">
-              We do not sell your information to third parties. We may share necessary data with payment providers (UPI,
-              PayPal, Venmo) to complete transactions.
+              We do not sell your information to third parties. We may share necessary data with payment providers UPI(gpay,Phonepay) to complete transactions.
             </p>
 
             <p className="text-gray-700 font-sans leading-relaxed mb-8">

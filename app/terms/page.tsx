@@ -37,7 +37,7 @@ export default function TermsOfService() {
               <li>Use the app for lawful purposes only.</li>
               <li>Accept that Splitta is currently in its beta stage, and features may change without notice.</li>
               <li>
-                Understand that payment settlement is handled through third-party providers (UPI, PayPal, Venmo), and
+                Understand that payment settlement is handled through third-party providers (UPI), and
                 Splitta is not responsible for delays or failures in their systems.
               </li>
             </ul>
