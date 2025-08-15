@@ -252,7 +252,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 font-sans hover:text-gray-700 transition-colors duration-200">
-                  Settle up instantly with UPI, PayPal, Venmo, and other popular payment methods.
+                  Settle up instantly with UPI and other popular payment methods.
                 </p>
               </CardContent>
             </Card>
